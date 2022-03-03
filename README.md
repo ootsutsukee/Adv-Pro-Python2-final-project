@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 - Create `.env` file with the following properties and set the appropriate values:
 
 ```
-SECRET_KEY=
+SECRET_KEY = 'your_secret_key'
 ```
 
 - Run application:
